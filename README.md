@@ -16,6 +16,7 @@ Topics:
 * Basic circuits with LEDs and resistors
 * Circuit wiring: parallel and series
 * Circuitry with extra components: buttons, switches, and potentiometers
+* Soldering and organizing breadboards / perf boards
 
 ##10/15 -- SESSION 2
 
