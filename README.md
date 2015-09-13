@@ -11,9 +11,9 @@ http://learning.caitlinmorris.net/sfpc/CharlesPetzold_Code.pdf
 
 Topics:
 
-* Electricity overview (voltage, resistance, current, Ohm's law, Kirchhoff's laws)
+* Electricity overview (voltage, resistance, current, Ohm's law, Kirchhoff's laws, circuit diagrams)
 * Electrical tangibles: Breadboards and simple components
-* Basic circuits with LEDs and resistors
+* Basic circuits with LEDs, resistors, capacitors
 * Circuit wiring: parallel and series
 * Circuitry with extra components: buttons, switches, and potentiometers
 * Soldering and organizing breadboards / perf boards
